@@ -1,0 +1,82 @@
+[
+    {
+        "history_id": 1,
+        "menu_name": "Batagor",
+        "price": 12000,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFXYF-mlT_YfMMM2TeMtDM8Q1jA5sa-V7Saw&usqp=CAU",
+        "menu_count": 2,
+        "place_name": "Batagor Siomay Nabil",
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu--5R1cvoTxBEjFkURJByb2SyUe7si_Y6og&usqp=CAU",
+        "time_at": "2022-01-12 13:00"
+    },
+    {
+        "history_id": 1,
+        "menu_name": "Siomay",
+        "price": 11000,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4uMrgxZ94oNekj4pNFcjlgHHYEnJNZUpPTw&usqp=CAU",
+        "menu_count": 1,
+        "place_name": "Batagor Siomay Nabil",
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu--5R1cvoTxBEjFkURJByb2SyUe7si_Y6og&usqp=CAU",
+        "time_at": "2022-01-12 13:00"
+    },
+    {
+        "history_id": 1,
+        "menu_name": "Siocambat",
+        "price": 13000,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtkRMvCh6NkngCG2JPyPCVXr5BZ9itQk9mA&usqp=CAU",
+        "menu_count": 1,
+        "place_name": "Batagor Siomay Nabil",
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu--5R1cvoTxBEjFkURJByb2SyUe7si_Y6og&usqp=CAU",
+        "time_at": "2022-01-12 13:00"
+    },
+    {
+        "history_id": 2,
+        "menu_name": "Nasi Kuning",
+        "price": 12000,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJc9lNGAir8q5JCGNZb5G_mdMBOZJhGXDSA&usqp=CAU",
+        "menu_count": 2,
+        "place_name": "Kantin Keluwih Universitas Surabaya",
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfC9DNRdE5uJTmy1IkZltFffnBZIFQePNhSQ&usqp=CAU",
+        "time_at": "2022-02-21 12:30"
+    },
+    {
+        "history_id": 3,
+        "menu_name": "Pangsit Mie Ayam Spesial",
+        "price": 26000,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_dns2FygGwzIcN8_y8cBkJlbCYgsojX8sQ&usqp=CAU",
+        "menu_count": 1,
+        "place_name": "Mie Surya",
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpKQbvakuzYvE_PkzVyg4PNSOZMfkb-RnMw&usqp=CAU",
+        "time_at": "2022-02-06 14:30"
+    },
+    {
+        "history_id": 4,
+        "menu_name": "Bakso Komplit",
+        "price": 18000,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBUIUZM7-V0CRSkBfhOW3yOGEzffpEuv4VA&usqp=CAU",
+        "menu_count": 1,
+        "place_name": "Bakso Pak Uun",
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRWGzwb5MMreXESigL3OP02xKy4uIMfNHD2EhGAhJb32N7dlu9LCVxRG0ysF2s_fuJ40&usqp=CAU",
+        "time_at": "2022-02-21 12:30"
+    },
+    {
+        "history_id": 4,
+        "menu_name": "Gorengan",
+        "price": 1000,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAtvEFIJokusdST6TygK4Ciaqz8zLNl39RQ&usqp=CAU",
+        "menu_count": 2,
+        "place_name": "Bakso Pak Uun",
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRWGzwb5MMreXESigL3OP02xKy4uIMfNHD2EhGAhJb32N7dlu9LCVxRG0ysF2s_fuJ40&usqp=CAU",
+        "time_at": "2022-02-21 12:30"
+    },
+    {
+        "history_id": 5,
+        "menu_name": "Bubur Ayam Telur Rebus",
+        "price": 16000,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MjyydRVwUdaJsMQp7R0NGdobChlB9GVLAw&usqp=CAU",
+        "menu_count": 2,
+        "place_name": "Bubur Ayam Mang Adoel",
+        "place_photo_url": "https://cdn.dimanaja.com/image/food/https/i.gojekapi.com/darkroom%2Fgofood-indonesia%2Fv2%2Fimages%2Fuploads%2F007cc412-66de-40da-92e7-b9d698ef5316_Go-Biz_20200725_054101.jpeg",
+        "time_at": "2022-03-04 13:00"
+    }
+]

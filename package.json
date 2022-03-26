@@ -1,0 +1,14 @@
+{
+  "name": "bakul_fake_api",
+  "version": "1.0.0",
+  "description": "Fake REST API for ANMP Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

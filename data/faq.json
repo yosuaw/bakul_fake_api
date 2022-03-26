@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Apa itu BaKul?",
+        "answer": "BaKul adalah aplikasi yang membantu para pengguna untuk melakukan pembelian secara online makanan dan minuman dari tempat-tempat kuliner yang ada di sekitar Universitas Surabaya (UBAYA)."
+    },
+    {
+        "question": "Bagaimana cara menambahkan makanan atau minuman ke keranjang?",
+        "answer": "Menu dapat ditambahkan ke keranjang dengan memilih tempat kuliner terlebih dahulu di halaman 'Beranda', lalu halaman detail tempat kuliner dan daftar menunya akan terbuka. Setelah itu, pada menu yang ingin dibeli tekan tombol '+' sebanyak jumlah menu yang diinginkan. Hal ini juga dapat dilakukan di halaman detail menu yang dapat diakses dengan menekan kartu menu, menekan tombol '+' sebanyak jumlah menu yang diinginkan serta menekan tombol 'Perbarui Isi Keranjang' untuk memasukkan menu yang dipilih ke keranjang."
+    },
+    {
+        "question": "Bagaimana cara memesan menu?",
+        "answer": "Pemesanan makanan atau minuman melalui aplikasi BaKul dapat dilakukan dengan menekan tombol 'Buat Pesanan' di halaman keranjang dan saldo BaKul Anda akan otomatis terpotong."
+    },
+    {
+        "question": "Dimana saya dapat melihat riwayat pemesanan menu?",
+        "answer": "Semua riwayat pemesanan makanan/minuman melalui aplikasi BaKul dapat dilihat di menu 'Riwayat'. Untuk melihat detail riwayat pemesanan di suatu tempat kuliner, Anda dapat melihatnya dengan menekan kartu tempat kuliner yang ditampilkan di halaman 'Riwayat'."
+    },
+    {
+        "question": "Dimana saya saya dapat melihat sisa saldo BaKul saya?",
+        "answer": "Saldo BaKul dapat dilihat di bagian menu 'Pembayaran' yang dapat diakses melalui panel menu kiri."
+    },
+    {
+        "question": "Bagaimana cara saya mengisi saldo BaKul?",
+        "answer": "Langkah-langkah untuk mengisi saldo BaKul dapat dilihat di bagia menu 'Pembayaran' (menu yang sama untuk melihat sisa saldo BaKul) yang dapat diakses melalui panel menu kiri."
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Batagor Siomay Nabil",
+        "rating": 4.5,
+        "reviews": 3,
+        "address": "Tenggilis Mejoyo Selatan No.5",
+        "open": "09:30",
+        "closed": "18:30",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu--5R1cvoTxBEjFkURJByb2SyUe7si_Y6og&usqp=CAU"
+    },
+    {
+        "id": 2,
+        "name": "Mie Surya",
+        "rating": 4.3,
+        "reviews": 2,
+        "address": "Tenggilis Mejoyo Blok AN No.28B",
+        "open": "12:00",
+        "closed": "21:00",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpKQbvakuzYvE_PkzVyg4PNSOZMfkb-RnMw&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "Bubur Ayam Mang Adoel",
+        "rating": 4.6,
+        "reviews": 2,
+        "address": "Rungkut Mejoyo Selatan Blok AM No.3",
+        "open": "05:30",
+        "closed": "12:00",
+        "photo_url": "https://cdn.dimanaja.com/image/food/https/i.gojekapi.com/darkroom%2Fgofood-indonesia%2Fv2%2Fimages%2Fuploads%2F007cc412-66de-40da-92e7-b9d698ef5316_Go-Biz_20200725_054101.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Bakso Pak Uun",
+        "rating": 4.4,
+        "reviews": 0,
+        "address": "Rungkut Mejoyo Selatan Blok No.35",
+        "open": "10:00",
+        "closed": "15:30",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRWGzwb5MMreXESigL3OP02xKy4uIMfNHD2EhGAhJb32N7dlu9LCVxRG0ysF2s_fuJ40&usqp=CAU"
+    },
+    {
+        "id": 5,
+        "name": "Kedai Wijaya",
+        "rating": 4.5,
+        "reviews": 5,
+        "address": "Kantin Keluwih Universitas Surabaya",
+        "open": "09:30",
+        "closed": "16:00",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfC9DNRdE5uJTmy1IkZltFffnBZIFQePNhSQ&usqp=CAU"
+    }
+]

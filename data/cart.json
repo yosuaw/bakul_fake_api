@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "menu_name": "Bubur Ayam Telur Rebus",
+        "price": 16000,
+        "total_price": 76000,
+        "count": 2,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MjyydRVwUdaJsMQp7R0NGdobChlB9GVLAw&usqp=CAU",
+        "username": "yosuaw"
+    },
+    {
+        "id": 2,
+        "menu_name": "Usus Crispy",
+        "price": 4000,
+        "total_price": 76000,
+        "count": 1,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRaQKDdFv_jfoBZQdch-vRXP7jmZR4ErdIA&usqp=CAU",
+        "username": "yosuaw"
+    },
+    {
+        "id": 3,
+        "menu_name": "Cilok Goreng",
+        "price": 10000,
+        "total_price": 76000,
+        "count": 1,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUK1IDYEYBS8SPdf6Tfg-HI6k-ihMdpn_Cg&usqp=CAU",
+        "username": "yosuaw"
+    },
+    {
+        "id": 4,
+        "menu_name": "Bubur Ayam Ati Ampela",
+        "price": 15000,
+        "total_price": 76000,
+        "count": 2,
+        "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGRl-ErzocbVwv4ho6wJMnA0EVfzIzH0F1kw&usqp=CAU",
+        "username": "yosuaw"
+    }
+]

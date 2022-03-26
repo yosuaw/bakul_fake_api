@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "place_name": "Batagor Siomay Nabil",
+        "time_at": "2022-01-12 13:00",
+        "total_price": 48000,
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu--5R1cvoTxBEjFkURJByb2SyUe7si_Y6og&usqp=CAU",
+        "username": "yosuaw"
+    },
+    {
+        "id": 2,
+        "place_name": "Kedai Wijaya",
+        "time_at": "2022-01-21 12:30",
+        "total_price": 24000,
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfC9DNRdE5uJTmy1IkZltFffnBZIFQePNhSQ&usqp=CAU",
+        "username": "yosuaw"
+    },
+    {
+        "id": 3,
+        "place_name": "Mie Surya",
+        "time_at": "2022-02-06 14:30",
+        "total_price": 26000,
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnpKQbvakuzYvE_PkzVyg4PNSOZMfkb-RnMw&usqp=CAU",
+        "username": "yosuaw"
+    },
+    {
+        "id": 4,
+        "place_name": "Bakso Pak Uun",
+        "time_at": "2022-02-21 12:30",
+        "total_price": 20000,
+        "place_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRWGzwb5MMreXESigL3OP02xKy4uIMfNHD2EhGAhJb32N7dlu9LCVxRG0ysF2s_fuJ40&usqp=CAU",
+        "username": "yosuaw"
+    },
+    {
+        "id": 5,
+        "place_name": "Bubur Ayam Mang Adoel",
+        "time_at": "2022-03-04 13:00",
+        "total_price": 32000,
+        "place_photo_url": "https://cdn.dimanaja.com/image/food/https/i.gojekapi.com/darkroom%2Fgofood-indonesia%2Fv2%2Fimages%2Fuploads%2F007cc412-66de-40da-92e7-b9d698ef5316_Go-Biz_20200725_054101.jpeg",
+        "username": "yosuaw"
+    }
+]

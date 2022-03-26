@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "Batagor",
+        "price": 12000,
+        "count": 0,
+        "description": "Berisi kentang, batagor, dan siomay goreng yang diberi bumbu kacang lezat",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFXYF-mlT_YfMMM2TeMtDM8Q1jA5sa-V7Saw&usqp=CAU",
+        "place_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Siomay",
+        "price": 11000,
+        "count": 0,
+        "description": "Berisi siomay, kentang, dan kol yang diberi bumbu kacang lezat",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4uMrgxZ94oNekj4pNFcjlgHHYEnJNZUpPTw&usqp=CAU",
+        "place_id": 1
+    },
+    {
+        "id": 3,
+        "name": "Siocambat",
+        "price": 13000,
+        "count": 0,
+        "description": "Gabungan antara siomay dan batagor yang dicampur dengan bumbu kacang",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtkRMvCh6NkngCG2JPyPCVXr5BZ9itQk9mA&usqp=CAU",
+        "place_id": 1
+    },
+    {
+        "id": 4,
+        "name": "Pangsit Mie Ayam Spesial",
+        "price": 26000,
+        "count": 0,
+        "description": "Mie ayam yang diberi pangsit rebus dan bakso",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_dns2FygGwzIcN8_y8cBkJlbCYgsojX8sQ&usqp=CAU",
+        "place_id": 2
+    },
+    {
+        "id": 5,
+        "name": "Bakso",
+        "price": 18000,
+        "count": 0,
+        "description": "Bakso sapi dengan kuah kaldu yang gurih. 1 porsi berisi 3 bakso halus dan 2 bakso kasar",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8KJXlXgLoOw_v14QuzgfXQGuSp6e0JR0V5Q&usqp=CAU",
+        "place_id": 2
+    },
+    {
+        "id": 6,
+        "name": "Bubur Ayam Telur Rebus",
+        "price": 16000,
+        "count": 2,
+        "description": "Bubur ayam dengan berbagai macam topping dan sebuah telur rebus",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MjyydRVwUdaJsMQp7R0NGdobChlB9GVLAw&usqp=CAU",
+        "place_id": 3
+    },
+    {
+        "id": 7,
+        "name": "Bubur Ayam Ati Ampela",
+        "price": 15000,
+        "count": 2,
+        "description": "Bubur ayam dengan berbagai macam topping dan juga ati ampela",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGRl-ErzocbVwv4ho6wJMnA0EVfzIzH0F1kw&usqp=CAU",
+        "place_id": 3
+    },
+    {
+        "id": 8,
+        "name": "Usus Crispy",
+        "price": 4000,
+        "count": 1,
+        "description": "Usus goreng yang gurih dan renyah",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRaQKDdFv_jfoBZQdch-vRXP7jmZR4ErdIA&usqp=CAU",
+        "place_id": 3
+    },
+    {
+        "id": 9,
+        "name": "Cilok Goreng",
+        "price": 10000,
+        "count": 1,
+        "description": "Cilok isi daging yang digoreng dengan telur. 1 porsi isi 8 tusuk cilok goreng",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUK1IDYEYBS8SPdf6Tfg-HI6k-ihMdpn_Cg&usqp=CAU",
+        "place_id": 3
+    },
+    {
+        "id": 10,
+        "name": "Bakso Komplit",
+        "price": 18000,
+        "count": 0,
+        "description": "3 biji Bakso, gorengan, siomay, dan tahu bakso dalam 1 porsi",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeBUIUZM7-V0CRSkBfhOW3yOGEzffpEuv4VA&usqp=CAU",
+        "place_id": 4
+    },
+    {
+        "id": 11,
+        "name": "Gorengan",
+        "price": 1000,
+        "count": 0,
+        "description": "Gorengan panjang gurih",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAtvEFIJokusdST6TygK4Ciaqz8zLNl39RQ&usqp=CAU",
+        "place_id": 4
+    },
+    {
+        "id": 12,
+        "name": "Nasi Goreng Spesial",
+        "price": 18000,
+        "count": 0,
+        "description": "Nasi goreng yang diberi berbagai macam topping, seperti sosis, udang, ayam, dan telur mata sapi",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-kd2lfzLy8p1Ab_RWvn0qkVcJkRMCozv6g&usqp=CAU",
+        "place_id": 5
+    },
+    {
+        "id": 13,
+        "name": "Nasi Campur",
+        "price": 12000,
+        "count": 0,
+        "description": "Nasi campur enak. Berisi daging empal, ayam suwir, telur rebus, serundeng, dan sayur.",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRklynBdo41vZ8UBJ6zWXRAfBlqBrJ52-s4yw&usqp=CAU",
+        "place_id": 5
+    },
+    {
+        "id": 14,
+        "name": "Nasi Kuning",
+        "price": 12000,
+        "count": 0,
+        "description": "Nasi kuning komplit dengan berbagai macam topping, seperti ayam goreng, mie, sambal goreng, telur suwir, dan perkedel.",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJc9lNGAir8q5JCGNZb5G_mdMBOZJhGXDSA&usqp=CAU",
+        "place_id": 5
+    }
+]

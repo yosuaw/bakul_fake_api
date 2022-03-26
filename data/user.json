@@ -1,0 +1,47 @@
+[
+    {
+        "username": "yosuaw",
+        "password": "yosua123",
+        "name": "Yosua Wijaya",
+        "phone_number": "081773629374",
+        "email": "yosua@gmail.com",
+        "balance": 150000,
+        "photo_url": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "username": "sherlinavia",
+        "password": "sher321",
+        "name": "Sherlina Olivia",
+        "phone_number": "089746393672",
+        "email": "sherlina@gmail.com",
+        "balance": 180000,
+        "photo_url": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+        "username": "yudis",
+        "password": "yudipass",
+        "name": "Yudi Susanto",
+        "phone_number": "081746382745",
+        "email": "yudi12@gmail.com",
+        "balance": 250000,
+        "photo_url": "https://randomuser.me/api/portraits/men/85.jpg"
+    },
+    {
+        "username": "jessicalia",
+        "password": "jessica123",
+        "name": "Jessica Aprilia",
+        "phone_number": "089463372284",
+        "email": "jessica33@gmail.com",
+        "balance": 80000,
+        "photo_url": "https://randomuser.me/api/portraits/women/21.jpg"
+    },
+    {
+        "username": "siskas",
+        "password": "siska321",
+        "name": "Siska Susanto",
+        "phone_number": "087992748392",
+        "email": "siska87@gmail.com",
+        "balance": 120000,
+        "photo_url": "https://randomuser.me/api/portraits/women/0.jpg"
+    }
+]

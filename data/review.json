@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "person_name": "Yosua Wijaya",
+        "content": "Enak banget batagornya. Bumbu kacangnya kerasa banget. Kapan-kapan ke sini lagi ah!",
+        "photo_url": "https://randomuser.me/api/portraits/men/3.jpg",
+        "place_id": 1
+    },
+    {
+        "id": 2,
+        "person_name": "Yudi Susanto",
+        "content": "Bener-bener siomay yang gua suka sih ini. The best lah pokoknya.",
+        "photo_url": "https://randomuser.me/api/portraits/men/85.jpg",
+        "place_id": 1
+    },
+    {
+        "id": 3,
+        "person_name": "Sherlina Olivia",
+        "content": "Semuanya enak, mulai dari batagor sampe siomaynya, murah lagi! Kuy coba guys",
+        "photo_url": "https://randomuser.me/api/portraits/women/12.jpg",
+        "place_id": 1
+    },
+    {
+        "id": 4,
+        "person_name": "Sherlina Olivia",
+        "content": "Mie nya enak, kenyal dan tipis. Aku suka model mie yang kayak gini. Yang suka juga, bisa cobain",
+        "photo_url": "https://randomuser.me/api/portraits/women/12.jpg",
+        "place_id": 2
+    },
+    {
+        "id": 5,
+        "person_name": "Yudi Susanto",
+        "content": "Mie nya terlalu tipis menurut gua, tapi sisanya oke lah dengan harga segini.",
+        "photo_url": "https://randomuser.me/api/portraits/men/85.jpg",
+        "place_id": 2
+    },
+    {
+        "id": 6,
+        "person_name": "Yosua Wijaya",
+        "content": "Bubur ayamnya lumayan banyak, toppingnya melimpah, harganya pas dan soal rasa juara deh pokoknya!",
+        "photo_url": "https://randomuser.me/api/portraits/men/3.jpg",
+        "place_id": 3
+    },
+    {
+        "id": 7,
+        "person_name": "Siska Susanto",
+        "content": "Buburnya enak, banyak dan toppingnya enak banget sih. Cilok gorengnya enak banget, gak rugi deh kalau cobain. Kuy beli!",
+        "photo_url": "https://randomuser.me/api/portraits/women/0.jpg",
+        "place_id": 3
+    },
+    {
+        "id": 8,
+        "person_name": "Sherlina Olivia",
+        "content": "Nasi gorengnya enak bangettt! Bumbunya enak banget, harganya juga murah di kantong mahasiswa",
+        "photo_url": "https://randomuser.me/api/portraits/women/12.jpg",
+        "place_id": 5
+    },
+    {
+        "id": 9,
+        "person_name": "Jessica Aprilia",
+        "content": "Nasi kuningnya nendang banget rasanya! Untuk rasa dan harga cucok dah pokoknya. Kuy beli gaes",
+        "photo_url": "https://randomuser.me/api/portraits/women/21.jpg",
+        "place_id": 5
+    },
+    {
+        "id": 10,
+        "person_name": "Yosua Wijaya",
+        "content": "Bener nih kata Jessica, nasi kuningnya berasa banget deh pokoknya. Isiannya juga banyak buat harga segini :D",
+        "photo_url": "https://randomuser.me/api/portraits/men/3.jpg",
+        "place_id": 5
+    },
+    {
+        "id": 11,
+        "person_name": "Yudi Susanto",
+        "content": "Nasi campurnya juara deh pokoknya!",
+        "photo_url": "https://randomuser.me/api/portraits/men/85.jpg",
+        "place_id": 5
+    },
+    {
+        "id": 12,
+        "person_name": "Siska Susanto",
+        "content": "Sejak semester 1 kuliah di UBAYA, kedai ini paling juara dari tempat makan yang lain yang ada di Keluwih. Mulai dari nasi goreng, nasi campur, sampe nasi kuningnya enak banget! Harganya murah dan porsinya banyak banget.",
+        "photo_url": "https://randomuser.me/api/portraits/women/0.jpg",
+        "place_id": 5
+    }
+]
