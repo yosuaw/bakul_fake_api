@@ -1,19 +1,23 @@
 [
     {
         "question": "Apa itu BaKul?",
-        "answer": "BaKul adalah aplikasi yang membantu para pengguna untuk melakukan pembelian secara online makanan dan minuman dari tempat-tempat kuliner yang ada di sekitar Universitas Surabaya (UBAYA)."
+        "answer": "BaKul adalah aplikasi yang membantu para pengguna untuk melakukan pembelian makanan dan minuman secara online dari tempat-tempat kuliner yang ada di sekitar Universitas Surabaya (UBAYA)."
     },
     {
         "question": "Bagaimana cara menambahkan makanan atau minuman ke keranjang?",
-        "answer": "Menu dapat ditambahkan ke keranjang dengan memilih tempat kuliner terlebih dahulu di halaman 'Beranda', lalu halaman detail tempat kuliner dan daftar menunya akan terbuka. Setelah itu, pada menu yang ingin dibeli tekan tombol '+' sebanyak jumlah menu yang diinginkan. Hal ini juga dapat dilakukan di halaman detail menu yang dapat diakses dengan menekan kartu menu, menekan tombol '+' sebanyak jumlah menu yang diinginkan serta menekan tombol 'Perbarui Isi Keranjang' untuk memasukkan menu yang dipilih ke keranjang."
+        "answer": "Menu dapat ditambahkan ke keranjang dengan memilih tempat kuliner terlebih dahulu di halaman 'Beranda'. Tekan tempat kuliner yang Anda inginkan maka halaman detail tempat kuliner dan daftar menunya akan terbuka. Setelah itu, pada menu yang ingin dibeli tekan tombol '+' sebanyak jumlah menu yang diinginkan. Hal ini juga dapat dilakukan di halaman detail menu yang dapat diakses dengan menekan kartu menu, lalu tekan tombol '+' sebanyak jumlah menu yang diinginkan. Jangan lupa untuk menekan tombol 'Perbarui Isi Keranjang' untuk memperbarui jumlah menu yang dipilih ke keranjang."
     },
     {
         "question": "Bagaimana cara memesan menu?",
-        "answer": "Pemesanan makanan atau minuman melalui aplikasi BaKul dapat dilakukan dengan menekan tombol 'Buat Pesanan' di halaman keranjang dan saldo BaKul Anda akan otomatis terpotong."
+        "answer": "Pemesanan makanan atau minuman melalui aplikasi BaKul dapat dilakukan dengan menekan tombol 'Buat Pesanan' di halaman keranjang. Setelah proses pemesanan menu selesai, saldo BaKul Anda akan otomatis terpotong."
+    },
+    {
+        "question": "Setelah memesan menu, apa yang harus saya lakukan?",
+        "answer": "Setelah Anda memesan menu dengan menekan tombol 'Buat Pesanan', Anda dapat mengambil pesanan makanan/minuman Anda di lokasi tempat kulinernya secara langsung."
     },
     {
         "question": "Dimana saya dapat melihat riwayat pemesanan menu?",
-        "answer": "Semua riwayat pemesanan makanan/minuman melalui aplikasi BaKul dapat dilihat di menu 'Riwayat'. Untuk melihat detail riwayat pemesanan di suatu tempat kuliner, Anda dapat melihatnya dengan menekan kartu tempat kuliner yang ditampilkan di halaman 'Riwayat'."
+        "answer": "Semua riwayat pemesanan makanan/minuman melalui aplikasi BaKul dapat dilihat di menu 'Riwayat'. Untuk melihat detail riwayat pemesanan di suatu tempat kuliner, Anda dapat melihatnya dengan menekan kartu tempat kuliner yang Anda ingin lihat detailnya."
     },
     {
         "question": "Dimana saya saya dapat melihat sisa saldo BaKul saya?",
