@@ -5,6 +5,7 @@
         "price": 16000,
         "total_price": 76000,
         "count": 2,
+        "notes": "Tanpa merica",
         "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MjyydRVwUdaJsMQp7R0NGdobChlB9GVLAw&usqp=CAU",
         "username": "yosuaw"
     },
@@ -14,6 +15,7 @@
         "price": 4000,
         "total_price": 76000,
         "count": 1,
+        "notes": "",
         "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRaQKDdFv_jfoBZQdch-vRXP7jmZR4ErdIA&usqp=CAU",
         "username": "yosuaw"
     },
@@ -23,6 +25,7 @@
         "price": 10000,
         "total_price": 76000,
         "count": 1,
+        "notes": "Minta sambel dan saos tomat",
         "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUK1IDYEYBS8SPdf6Tfg-HI6k-ihMdpn_Cg&usqp=CAU",
         "username": "yosuaw"
     },
@@ -32,6 +35,7 @@
         "price": 15000,
         "total_price": 76000,
         "count": 2,
+        "notes": "",
         "menu_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGRl-ErzocbVwv4ho6wJMnA0EVfzIzH0F1kw&usqp=CAU",
         "username": "yosuaw"
     }
